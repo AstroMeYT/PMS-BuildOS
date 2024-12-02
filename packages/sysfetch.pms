@@ -1,0 +1,1 @@
+["init sys","echo System:","BuildOS","echo Underlying system:","sys echo OS","echo Underlying RAM (GB):","sys echo RAM"]
